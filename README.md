@@ -9,7 +9,7 @@ Wajib Versi Python **Python 3.8.10**
 2. **Clone repository:**
 
    ```bash
-   git clone https://github.com/Aravind-SL/Real_Time_Face_Emotion_Detection.git
+   git clone  https://github.com/r1kh4n/Aplikasi-Deteksi-Emosi-Wajah-Secara-Real-Time.git
    cd Real_Time_Face_Emotion_Detection
    ```
 
